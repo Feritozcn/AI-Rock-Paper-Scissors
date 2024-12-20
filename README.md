@@ -10,5 +10,6 @@ To run this project, you need to install the following Python libraries:
 
 - `numpy`
 - `scikit-learn`
+## Downloads
 pip install numpy
 pip install scikit-learn
