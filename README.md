@@ -1,6 +1,6 @@
-# AI-Rock-Paper-Scissors
-Basic Aı model which learns from patterns
-# Rock Paper Scissors AI
+# ML-Rock-Paper-Scissors
+Basic ML model which trains from patterns
+# Rock Paper Scissors 
 
 This project implements a rock-paper-scissors game where the AI learns from the user's choices.
 
